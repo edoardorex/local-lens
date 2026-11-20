@@ -2,6 +2,11 @@
 
 # Local Lens
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-b8fd78?style=flat-square)](LICENSE)
+[![Node.js 22+](https://img.shields.io/badge/Node.js-22%2B-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![GitHub Copilot skill](https://img.shields.io/badge/GitHub_Copilot-Skill-24292f?style=flat-square&logo=githubcopilot&logoColor=white)](skills/local-lens/SKILL.md)
+[![Zero runtime dependencies](https://img.shields.io/badge/Runtime_dependencies-0-b8fd78?style=flat-square)](#the-small-useful-architecture)
+
 ### Stop describing *where.* Start shaping *what.*
 
 A custom **GitHub Copilot skill** for visual frontend editing.<br>
